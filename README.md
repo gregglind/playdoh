@@ -11,7 +11,8 @@ Full [documentation][docs] is available as well.
 
 [django]: http://www.djangoproject.com/
 [gh-playdoh]: https://github.com/mozilla/playdoh
-[docs]: http://playdoh.rtfd.org/
+[read the docs]: http://playdoh.rtfd.org/  
+[docs source]:  https://github.com/mozilla/playdoh-docs
 
 
 License
